@@ -1,0 +1,6 @@
+{
+  "name": "USSD QuickDial",
+  "description": "Executes USSD *31124*1# and custom codes with automatic in-app response interception, dialer fallback, history, and test simulation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
